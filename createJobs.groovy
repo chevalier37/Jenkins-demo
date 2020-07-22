@@ -5,4 +5,4 @@ pipelineJob('pipelineJob') {
             sandbox()
         }
     }
-}
+} 
